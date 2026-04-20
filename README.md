@@ -1,3 +1,6 @@
+<img width="5869" height="4688" alt="NLDT_Earthquake_v5 6_20260420_214234" src="https://github.com/user-attachments/assets/d7f6de8d-3647-4620-9781-cb82cf210134" />
+<img width="1224" height="808" alt="image" src="https://github.com/user-attachments/assets/ac24c1d8-8b2d-4434-a4cf-feed56c2aad0" />
+
 # NLDT Earthquake Module v5.6 – Japan Trench Focus
 
 **Non-linear resonance analysis of the Japan Trench with USGS live data**
